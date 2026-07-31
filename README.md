@@ -17,11 +17,11 @@ This unit provides an introduction to neural networks and their applications. Yo
 
 ## Content
 
-| Topic |  About |
-| ------ | ------ |
-| [Full Lesson Deck](./01-slides/) | Conceptual introduction to neural networks. |
-| [0OP Review](./02-oop-review) | Review of classes in Python |
-| [Intro to PyTorch](./03-intro-to-PyTorch) | An introduction to PyTorch |
+| Topic                                             |  About |
+|---------------------------------------------------| ------ |
+| [Full Lesson Deck](./01-slides/)                  | Conceptual introduction to neural networks. |
+| [OOP Review](./02-oop-review)                     | Review of classes in Python |
+| [Intro to PyTorch](./03-intro-to-pytorch)         | An introduction to PyTorch |
 | [Activation Functions](./04-activation-functions) | visualizing the different activation functions |
 
 
