@@ -4,7 +4,7 @@
 </h1>
 
 ## About
-This unit provides an introduction to neural networks and their applications. You'll start with a conceptual understanding of how neural networks work, explore popular frameworks like PyTorch and Hugging Face, and learn to examine models using model cards. Finally, you'll examine deep learning applications in domains such as computer vision, natural language processing, and more. 
+This lesson provides an introduction to neural networks and their applications. You'll start with a conceptual understanding of how neural networks work, explore popular frameworks like PyTorch and Hugging Face, and learn to examine models using model cards. 
 
 ## Learning Objectives
 
